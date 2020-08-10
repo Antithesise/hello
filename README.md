@@ -1,1 +1,1 @@
-# My-first-packge
+# My-first-package
